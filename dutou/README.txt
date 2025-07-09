@@ -1,0 +1,2 @@
+power_boadr:环板
+rectifying_circuit:整流电路
