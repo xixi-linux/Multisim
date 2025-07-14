@@ -1,1 +1,3 @@
 optocoupler_switch:光耦开关电路
+optocoupler_relay:光耦继电器电路
+optocoupler_uart_led:光耦串口指示灯电路
